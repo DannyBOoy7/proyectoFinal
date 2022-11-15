@@ -1,0 +1,97 @@
+header{
+    background-color: #171717;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+body{
+    margin: 0;
+}
+
+#hero{
+    background-image:url(img/1595751264_094537_1595752095_noticia_normal.jpg);
+    height: 90vh;
+    background-size: cover;
+    
+}
+#sep1{
+    background-color: #171717;
+    margin: auto;;
+    height: 10vh;
+    padding: 1%;
+}
+
+.titsep1{
+    text-align: center;
+    color: #34d399;
+    
+}
+
+#im1{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/top100games-100-81-banner-1640835563416.jpg);
+    
+}
+.txt1{
+    color: antiquewhite;
+}
+
+#sep2{
+   background-color: #171717;
+   margin: auto;
+   height: 10vh;
+   padding: 1%;
+}
+
+.titsep2{
+    text-align: center;
+    color: #34d399;
+}
+
+#im2{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/Fortnite_ch2-s2_KeyArt-3840x2138-00922efab9e3d17fa52e6e2cc086b5650fff41fc.jpg);
+}
+.txt2{
+    color:antiquewhite;
+}
+
+#sep3{
+    background-color: #171717;
+    margin: auto;
+    height: 10vh;
+    padding: 1%;
+ }
+
+ .titsep3{
+    text-align: center;
+    color: #34d399;
+}
+
+#im3{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/1366_2000.jpg);
+    background-size: cover;
+}
+
+.txt3{
+    color:antiquewhite;
+}
+
+#final{
+    background-color: black;
+    text-align: center;
+}
+

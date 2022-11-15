@@ -1,0 +1,56 @@
+header{
+    background-color: #171717;
+}
+
+body{
+    margin: 0;
+}
+
+#hero {
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: colum;
+    color:aqua;
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/nvidaCompra.jpg);
+    height: 60vh;
+    padding: 1%;
+    background-size: cover;
+    
+    
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+#separ{
+    text-align: center;
+    background-color: #171717;
+    padding:1%;
+    height: 10vh;
+}
+
+.col{
+    color: #eab308;
+}
+
+#volver{
+background-color: black;
+padding-block-end: 0.19%;
+}
+
+a{
+    background-image: url(img/outerspace-58.gif);
+    background-size: cover;
+    height: 30vh;
+    color:red;
+    font-size: 2em;
+}

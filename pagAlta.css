@@ -1,0 +1,98 @@
+header{
+    background-color: #171717;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+body{
+    margin: 0;
+}
+
+#hero{
+    background-image:url(img/alta.jpg);
+    height: 90vh;
+    background-size: cover;
+    
+}
+#sep1{
+    background-color: #171717;
+    margin: auto;;
+    height: 10vh;
+    padding: 1%;
+}
+
+.titsep1{
+    text-align: center;
+    color: #34d399;
+    
+}
+
+#im1{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/call-of-duty-leaping.gif);
+    background-size: cover;
+    
+}
+.txt1{
+    color: antiquewhite;
+}
+
+#sep2{
+   background-color: #171717;
+   margin: auto;
+   height: 10vh;
+   padding: 1%;
+}
+
+.titsep2{
+    text-align: center;
+    color: #34d399;
+}
+
+#im2{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/pYjG3X.gif);
+    background-size: cover;
+}
+.txt2{
+    color:antiquewhite;
+}
+
+#sep3{
+    background-color: #171717;
+    margin: auto;
+    height: 10vh;
+    padding: 1%;
+ }
+
+ .titsep3{
+    text-align: center;
+    color: #34d399;
+}
+
+#im3{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/tumblr_715c8a9da31f25e0c4a15150937f6964_42332279_540.gif);
+    background-size: cover;
+}
+
+.txt3{
+    color:antiquewhite;
+}
+
+#final{
+    background-color: black;
+    text-align: center;
+}

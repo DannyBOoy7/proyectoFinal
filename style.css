@@ -1,0 +1,171 @@
+
+h1{ font-size: 3em;}
+h2{ font-size: 2.3em;
+color:#881337;}
+h3{ font-size: 2em;}
+
+ul{ list-style: none;}
+li{ font-size: 2em;
+color:#d6d3d1;
+text-align: center;}
+
+body{
+    margin: 0;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+header{
+    background-color: #171717;
+}
+
+#hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: colum;
+    height: 90vh;
+    color: #d6d3d1;
+    background-image:linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("img/nvidia-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.color-computer{
+    color:aqua
+}
+#somos{
+    text-align: center;
+    padding-top: 1%;
+    padding: 1%;
+    
+    background-color: #171717;
+    color:#d6d3d1
+}
+#nuestrosProductos{
+    text-align: center;
+    background-image: linear-gradient(
+rgba(0,0,0,0.5),
+rgba(0,0,0,0.5)
+    )
+    ,url(img/nvidia-g-sync-360-hz-og-image-1200x630.jpg);
+    padding-top: 1%;
+    padding-inline-end: 1%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.gama-baja{
+    color: #fbbf24;
+
+}
+.ver-gamaBaja{
+    color: #fbbf24;
+}
+
+.text-baja{
+    color: antiquewhite;
+}
+
+.gama-media{
+    color:#701a75;
+}
+.tex-media{
+    color:#d6d3d1;
+}
+.ver-media{
+    color: #701a75;
+}
+.gama-alta{
+    color:#dc2626;
+}
+.tex-alta{
+    color: #d6d3d1;
+}
+.ver-alta{
+    color: #ee0a0a;
+}
+#caracteristicas{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(img/nvidia\ \(1\).jpg);
+    padding-top: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+}
+#Juegos{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),url(img/60db2a42-fa3b-49d7-a8f1-2e73bee33c14_16-9-discover-aspect-ratio_default_0.jpg);
+    padding-top: 1%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 60vh;
+}
+.jugar{
+    color:#7f1d1d;
+}
+.compe{
+    color: #d6d3d1;
+    text-align: center;
+}
+#ini{
+    background-color: #171717;
+}
+.inic{
+    color: #d6d3d1;
+}
+#video{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ) 
+    ,url(img/1620977709_149451_1620977973_noticia_normal.jpg);
+}
+
+#esp{
+    background-color: #171717;
+    padding-top: 1%;
+    padding: 1%;
+    
+}
+.espe{
+    text-align: center;
+    color:#881337;
+}
+.pro{
+    color: #2dd4bf;
+}
+#f{
+    background-color: #171717;
+    padding: 1%;
+    height: 20vh;
+}
+.fa{
+    text-align: center;
+}
+#ff{
+background-color: #171717;
+padding: 1%;
+}
+.fv{
+    text-align: center;
+    color: #fbbf24;
+
+}
+
